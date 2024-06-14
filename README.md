@@ -7,7 +7,7 @@
 
 <div id="socials" align="center">
 
-<a href="https://t.me/@mrStashev">
+<a href="https://t.me/mrStashev">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
 badge&logo=telegram&logocolor=white"alt="Telegram"/>
 </a>
