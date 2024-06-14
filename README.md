@@ -4,7 +4,7 @@
 <h1>Hi there, I'm Andrey</h1>
 <h3>Software Developer from Moscow region</h3>
 </div>
-
+<!--
 <div id="socials" align="center">
 
 <a href="https://t.me/mrStashev">
@@ -12,7 +12,7 @@
 badge&logo=telegram&logocolor=white"alt="Telegram"/>
 </a>
 </div>
-
+-->
 <!--
 
 <div id="socials" align="center">
