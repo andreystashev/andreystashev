@@ -5,12 +5,74 @@
 <h3>Software Developer from Moscow region</h3>
 </div>
 
+<div id="socials" align="center">
+
+<a href="https://t.me/mrStashev">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logocolor=white"alt="Telegram"/>
+</a>
+</div>
+
+
+### About me
+
+👨‍💻 Experienced C++/Qt Developer with 2.5 years in aviation.
+
+🎓 Master's in Data Engineering.
+
+💻 Python knowledge from courses (Skillbox, [Stepik](https://stepik.org/users/599116059/profile), university), though no professional experience.
+
+📚 Actively improving C++ skills and studying Python for future opportunities.
+
+🌍 English: Intermediate (B2). Learning Japanese (beginner).
+
+🔧 Occasionally solving problems on [LeetCode](https://leetcode.com/u/AndreyNikolaevich/)
+
+✈️ Current job involves aviation simulators (code/projects are confidential, primarily using C++ and Qt).
+
+
+Open to considering opportunities in both C++ and Python.
+
+
 
 <!--
 
 🛠 Skills
 
 С++, Qt, Python...
+
+
+
+<div id="stat" align="justify">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreystashev&theme=solarized_dark)
+
+</div>
+<div id="stat" align="justify">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreystashev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreystashev&theme=solarized_dark)
+
+</div>
+
+
+
+
+<div id="stat" align="justify">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/AndreyNikolaevich?theme=light&font=Lato&ext=heatmap)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
@@ -20,8 +82,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <div id="socials" align="center">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AndreyNikolaevich?theme=light&font=Lato&ext=heatmap)
-![](https://komarev.com/ghpvc/?username=andreystashev&color=green)
-[![codewars](https://www.codewars.com/users/andreystashev/badges/small)](https://www.codewars.com/users/andreystashev) 
+
+
 
 
 Карточка профиля: 
@@ -46,6 +108,9 @@ badge&logo=telegram&logocolor=white"alt="Telegram"/>
 </div>
 -->
 <!--
+![](https://komarev.com/ghpvc/?username=andreystashev&color=green)
+[![codewars](https://www.codewars.com/users/andreystashev/badges/small)](https://www.codewars.com/users/andreystashev) 
+
 
 <div id="socials" align="center">
 ‹a href="linkedin-url">
@@ -63,18 +128,6 @@ badge&logo=telegram&logocolor=white"alt="Telegram"/>
 </div>
 
 
-**andreystashev/andreystashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreystashev&layout=compact)](https://github.com/andreystashev/github-readme-stats)
@@ -94,16 +147,10 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">Software Developer from Moscow region</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreystashev&label=Profile%20views&color=0e75b6&style=flat" alt="andreystashev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreystashev" alt="andreystashev" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
-
-- 📫 How to reach me **stashev2.0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
