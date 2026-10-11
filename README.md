@@ -11,7 +11,7 @@ I build tools for device communication, telemetry, data processing, and local au
 | [Scenario Runner](https://github.com/andreystashev/scenario-runner) | Runs repeatable command sequences locally and in Docker containers, with process tracking and a web interface. | Python, Docker, unittest, GitHub Actions |
 | [Trading Robot](https://github.com/andreystashev/trading-robot) | Research dashboard for backtesting, paper trading, and execution experiments in T-Invest Sandbox. | Python, SQLite, Docker, GitHub Actions |
 | [Data Manager](https://github.com/andreystashev/data_manager) | Browses and downloads sensor datasets from S3/MinIO, filters Parquet data by time, and rebuilds ROS2 metadata. | Python, FastAPI, PyArrow, React, S3/MinIO |
-| [Device Control Hub](https://github.com/andreystashev/device-control-hub) | Desktop application for device communication, telemetry visualization, maps, and file transfers. | C++, Qt, TCP/UDP, UART |
+| [Device Control Hub](https://github.com/andreystashev/device-control-hub) | Desktop prototype for device telemetry, charts, map trajectories, and recorded data/image review. | C++, Qt, TCP/UDP, UART |
 
 ## Background
 
