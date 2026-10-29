@@ -1,42 +1,24 @@
 # Hi, I'm Andrey
 
-Software developer working with **C++/Qt and Python**, with professional experience in aviation software and a master's degree in Data Engineering from MISIS.
+Software developer focused on **C++/Qt, device communication, and Python tools**. I have professional experience in aviation software and a master's degree in Data Engineering from MISIS.
 
-I build tools for device communication, telemetry, data processing, and local automation. My public work spans desktop applications, backend services, research prototypes, and experimental VR adaptations.
+## Selected work
 
-## Selected applications
-
-| Project | Purpose | Stack |
+| Project | Engineering focus | Start here |
 | --- | --- | --- |
-| [Scenario Runner](https://github.com/andreystashev/scenario-runner) | Reusable command workflows with a local web dashboard, process tracking, and local or Docker execution. | Python standard library, Bash, Docker |
-| [Sensor Data Manager](https://github.com/andreystashev/sensor-data-manager) | Browse S3/MinIO sensor datasets, download selected categories, trim Parquet messages, and rebuild metadata. | Python, FastAPI, PyArrow, React |
-| [Device Control Hub](https://github.com/andreystashev/device-control-hub) | Desktop integration prototype for device telemetry, charts, map trajectories, and recorded data/image review. | C++, Qt, TCP/UDP, UART |
-| [Trading Robot](https://github.com/andreystashev/trading-robot) | Research dashboard for backtesting, paper trading, and separately enabled T-Invest Sandbox experiments. | Python, SQLite, Docker |
+| [Device Control Hub](https://github.com/andreystashev/device-control-hub) | C++/Qt integration prototype: TCP/UDP/UART telemetry, charts, maps, recording, and playback. | [Overview and build instructions](https://github.com/andreystashev/device-control-hub#readme) |
+| [Scenario Runner](https://github.com/andreystashev/scenario-runner) | Python workflow dashboard with process tracking, reusable commands, and local or Docker execution. | [Usage guide](https://github.com/andreystashev/scenario-runner/blob/main/docs/usage.md) |
+| [Sensor Data Manager](https://github.com/andreystashev/sensor-data-manager) | FastAPI/React application for S3/MinIO datasets, Parquet trimming, and metadata recovery. | [Setup and demo](https://github.com/andreystashev/sensor-data-manager#readme) |
+| [Local Estimates Lighting](https://github.com/andreystashev/local-estimates-lighting) | Master's thesis: illumination experiments, numerical comparisons, and image denoising in Python, C++, and MATLAB. | [Research scope and experiments](https://github.com/andreystashev/local-estimates-lighting#readme) |
 
-## Experimental VR releases
+## Released experiments
 
-Community VR adaptations with public installers, setup guides, controls, and known-issue documentation:
+[Hitman: Blood Money VR](https://github.com/andreystashev/hitman-blood-money-vr-showcase) is an experimental community VR adaptation with public [installers](https://github.com/andreystashev/hitman-blood-money-vr-showcase/releases), setup guides, controls, and known issues. The showcase contains releases and user documentation; implementation source is not public. It requires the original game.
 
-- [Hitman: Blood Money VR](https://github.com/andreystashev/hitman-blood-money-vr-showcase) · [Releases](https://github.com/andreystashev/hitman-blood-money-vr-showcase/releases)
-- [Hitman: Contracts VR](https://github.com/andreystashev/hitman-contracts-vr-showcase) · [Releases](https://github.com/andreystashev/hitman-contracts-vr-showcase/releases)
-- [Hitman 2: Silent Assassin VR](https://github.com/andreystashev/hitman-2-silent-assassin-vr-showcase) · [Releases](https://github.com/andreystashev/hitman-2-silent-assassin-vr-showcase/releases)
+The **[project guide](PROJECTS.md)** covers the other VR releases, smaller device tools, backend services, and coursework, with each repository's scope and entry points.
 
-These repositories publish releases and user documentation; implementation source is not included. The releases are experimental and require the corresponding original games.
+## Background and contact
 
-## Device tools and research
-
-- **Device communication:** [serial commands](https://github.com/andreystashev/serial-port-commander), [remote XML configuration](https://github.com/andreystashev/ssh-xml-manager), and [UDP telemetry](https://github.com/andreystashev/udp-transmission) in Qt; [UART-to-SD logging](https://github.com/andreystashev/stm32-card-logger) on STM32.
-- **Master's thesis:** [local-estimate illumination experiments](https://github.com/andreystashev/local-estimates-lighting), numerical comparisons, and image denoising in Python, C++, and MATLAB.
-
-See the **[project guide](PROJECTS.md)** for repository scope, coursework, demos, and documentation links.
-
-## Background
-
-- Professional experience with C++ and Qt in aviation software; proprietary work is not published here.
-- Master's degree in Data Engineering from MISIS.
-- Python projects covering web APIs, data processing, automation, and research tools.
-- English: B2. Learning Japanese.
-
-## Contact
+My proprietary aviation work is not published here. Public repositories contain personal applications, research, and educational examples. English: B2; learning Japanese.
 
 [Telegram](https://t.me/mrStashev) · [LeetCode](https://leetcode.com/u/AndreyNikolaevich/)
